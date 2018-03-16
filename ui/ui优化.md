@@ -13,9 +13,17 @@ Overdraw
 
 1  <  2  <   3 < 4
 
-紫  < 绿  <  粉 <  红
+蓝  < 绿  <  粉 <  红
 
 ```    
+
+```
+getWindow().setBackgroundDrawable(null);
+
+# 去除
+android:background="@android:color/black"
+
+```
 
 * 移除不必要的background(xml, code)
 * 使用clipRect: 自定义view
@@ -25,7 +33,7 @@ Overdraw
 
 工具位置: tools -> Android -> Android Device Monitor
 
-* xml 减少嵌套
+* xml 减少嵌套, 减少cpu不必要的节点计算 
 * include, merge 复用
 
 
