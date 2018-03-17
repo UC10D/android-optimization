@@ -15,3 +15,4 @@ android 优化
 ### 参考资料
 * [Profile Your App Performance](https://developer.android.com/studio/profile/index.html)
 * [Android 系统性能(视频)](https://cn.udacity.com/course/android-performance--ud825)
+* [性能优化工具知识梳理](https://www.jianshu.com/p/37c263f9886b)
