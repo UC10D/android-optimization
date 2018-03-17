@@ -42,3 +42,4 @@ android:background="@android:color/black"
 * [Android UI性能优化实战 识别绘制中的性能问题](http://blog.csdn.net/lmj623565791/article/details/45556391/)
 * [Google 发布 Android 性能优化典范](http://www.oschina.net/news/60157/android-performance-patterns?sid=07vbqo00ovnh233e0ain6ue5a6)
 * [Android 系统性能(code)](https://github.com/udacity/ud825-render/tree/1.11_chat_with_overdraws)
+* [Profile Your Layout with Hierarchy Viewer](https://developer.android.com/studio/profile/hierarchy-viewer.html)
