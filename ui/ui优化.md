@@ -33,7 +33,7 @@ getWindow().setBackgroundDrawable(null);
 android:background="@android:color/black"
 
 ```
-
+![Alt text](https://github.com/UC10D/android-optimization/blob/master/image/4A7C20C5-FCF4-424A-96C8-AC8AF06D6D47.png)
 
 
 
