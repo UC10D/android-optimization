@@ -12,7 +12,7 @@ android 优化
   * Overdraw
   * Hierarchy Viewer
   * clipRect
-* [code]
+* [code](https://github.com/UC10D/android-optimization/blob/master/code.md)
   * lint
   * checkstyle
   * tools
