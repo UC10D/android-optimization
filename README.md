@@ -8,8 +8,16 @@ android 优化
 
 ### 优化内容
 
-* [ui优化](https://github.com/UC10D/android-optimization/blob/master/ui/ui%E4%BC%98%E5%8C%96.md)
+* [ui优化](https://github.com/UC10D/android-optimization/blob/master/ui.md)
+  * Overdraw
+  * Hierarchy Viewer
+  * clipRect
 * [code]
+  * lint
+  * checkstyle
+  * tools
+  * @
+* memory
 
 
 
